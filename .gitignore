@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+config.json
+temp_files/
+output_videos/
+.idea/
+.vscode/
