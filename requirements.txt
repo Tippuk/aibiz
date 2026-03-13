@@ -1,0 +1,11 @@
+playwright
+playwright-stealth
+customtkinter
+groq
+edge-tts
+faster-whisper
+moviepy
+requests
+pillow
+numpy
+pytest

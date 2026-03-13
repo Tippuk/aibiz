@@ -4,7 +4,15 @@ __pycache__/
 venv/
 .env
 config.json
+state_*.json
 temp_files/
 output_videos/
+*.png
+*.html
+log.txt
+*.db
+used_topics_*.txt
+used_reddit_posts.txt
+video_counter_*.txt
 .idea/
 .vscode/

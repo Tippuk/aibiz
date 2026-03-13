@@ -1,3 +1,41 @@
 Running git init... 
 Initialized empty Git repository in D:/aibiz/.git/
 Adding files... 
+warning: in the working copy of '.gitignore', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'auto_tiktok_pipeline.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'find_moviepy.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'log.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'setup_github.bat', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'tiktok_automation_plan.md', LF will be replaced by CRLF the next time Git touches it
+Committing... 
+[master (root-commit) a6672a1] Initial commit
+ 15 files changed, 568 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 app.py
+ create mode 100644 auto_tiktok_pipeline.py
+ create mode 100644 dark_music/delosound-scary-horror-music-horror-483782.mp3
+ create mode 100644 dark_music/delosound-tense-suspense-background-music-442839.mp3
+ create mode 100644 dark_music/everything_is_dead-dark-ambient-soundscape-493696.mp3
+ create mode 100644 dark_music/everything_is_dead-sci-fi-ambient-dark-ambient-496940.mp3
+ create mode 100644 dark_music/paulyudin-suspense-suspense-cinematic-483326.mp3
+ create mode 100644 dark_music/sigmamusicart-horror-394969.mp3
+ create mode 100644 dark_music/soulfuljamtracks-dark-ambient-ambient-495568.mp3
+ create mode 100644 dark_music/soulfuljamtracks-dark-space-ambient-495569.mp3
+ create mode 100644 find_moviepy.py
+ create mode 100644 log.txt
+ create mode 100644 setup_github.bat
+ create mode 100644 tiktok_automation_plan.md
+Checking gh auth... 
+github.com
+  ✓ Logged in to github.com account Tippuk (keyring)
+  - Active account: true
+  - Git operations protocol: https
+  - Token: gho_************************************
+  - Token scopes: 'gist', 'read:org', 'repo', 'workflow'
+Creating repo... 
+https://github.com/Tippuk/aibiz
+branch 'master' set up to track 'origin/master'.
+To https://github.com/Tippuk/aibiz.git
+ * [new branch]      HEAD -> master
+Done. 
